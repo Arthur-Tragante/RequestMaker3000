@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/08 15:20:41.000.439,=C:\Users\Implantação002\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/08 15:21:21.000.161,=C:\Users\Implantação002\Desktop\Dumpster\json-v-1-0-6\json\uJSON.pas</Transaction>
+    <Transaction>2020/06/08 15:21:48.000.346,C:\Users\Implantação002\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Implantação002\Desktop\Para por favor\RequestMaker3000.pas</Transaction>
+    <Transaction>2020/06/08 15:21:48.000.346,C:\Users\Implantação002\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Implantação002\Desktop\Para por favor\RequestMaker3000.dfm</Transaction>
+    <Transaction>2020/06/08 15:21:55.000.691,C:\Users\Implantação002\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Implantação002\Desktop\Para por favor\ProjetoRequestMaker3000.dproj</Transaction>
+    <Transaction>2020/06/10 11:48:15.000.689,=C:\Users\Implantação002\Desktop\Dumpster\json-v-1-0-6\json\uJSON.pas</Transaction>
+    <Transaction>2021/03/15 10:23:07.000.875,=C:\Users\Arthur\Desktop\Olist\Classes.ConnInfo.pas</Transaction>
+    <Transaction>2021/03/15 11:32:59.000.102,C:\Users\Arthur\Desktop\Olist\Classes.ConnInfo.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\Dumpster"/>
+    <File Path="..\json-v-1-0-6"/>
+    <File Path="..\json-v-1-0-6\json"/>
+    <File Path="..\json-v-1-0-6\json\uJSON.pas"/>
+    <File Path="RequestMaker3000.pas"/>
+    <File Path="RequestMaker3000.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
